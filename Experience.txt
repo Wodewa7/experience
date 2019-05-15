@@ -1,0 +1,4 @@
+On the 11th of may, i attended a training on web desinging and the first module was on Git which was handled by our moderator (Mary Abiodun). I got to understand why the Github is in existence and its importance. 
+With Git now avalable to the general public, problems can now be solved convenintly and also with collaborating. Git also helps with not only collaboration but history and feature branching. 
+During the lesson, the various terminologies used in the github were explained and then advanced to run practice session using these terminilogies. i learnt how to initialize the creation of a repository, what a reposiory is, 
+how to add projects to your repository, how to commit files, push files to the repository and so on.after that we had an after lesson quiz to assess all we had done.
