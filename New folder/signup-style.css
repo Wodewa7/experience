@@ -1,0 +1,20 @@
+    body{background-color: rgb(69, 67, 75); font-family: sans-serif; margin: 40%; margin-top: 0%; border-width: 10px; 
+        background-image: url(micro.jpg) ; background-size: auto;
+}
+    span {width: 1755px;display: block; float: left;
+}
+    input{ float: left;
+}
+    label{ padding-right: 20px; 
+}
+    header{margin-right: auto; margin-left: auto; padding: 10px;overflow:hidden;   
+}
+    div{ float: center; 
+}
+.class{
+    text-transform: uppercase; color: black;  
+}
+.email{ color: black; font-variant: small-caps; font-weight: bolder;
+}
+.tel{color: black;font-variant: small-caps;font-weight: bolder;
+}

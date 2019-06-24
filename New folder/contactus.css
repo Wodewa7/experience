@@ -1,0 +1,5 @@
+body{ background-color: rgb(69, 67, 75); font-family: sans-serif; text-align:auto; background-image: url(food.jpg); 
+     background-size: 50%;
+}
+header{ border: double; color: honeydew; background-color: rgb(139 , 155, 51);
+}
