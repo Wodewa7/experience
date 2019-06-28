@@ -1,0 +1,23 @@
+h1{font-size: 70px; text-align: center; float: center; font-family:cursive; padding-bottom: 180px;
+    ;margin-block-end: 0px;  
+}
+body{ margin: 10px; text-align: justify; background:grey;
+
+}
+header{ color: white;background-image: url(call.jpg); background-size: 1400px,1000px ; background-repeat: no-repeat;
+
+}
+a:link{ color: indianred;
+
+}
+a:visited{ color: forestgreen;
+
+}
+a:hover{ color: saddlebrown;
+
+}
+a:active{ color: blueviolet; 
+}
+p{margin: 10px;}
+.text{ font-family: Helvetica; font-style: oblique; font-size: 25px;font-weight: 100; background-color:rgb(231, 231, 158);
+}
